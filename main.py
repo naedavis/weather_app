@@ -24,7 +24,7 @@ def weather():
         # #declaring a variable that will hold my url fo rmy weather API
         url = 'http://api.openweathermap.org/data/2.5/weather?'
         # #variable for my api key given
-        key = '4b9599c6b999d259bb64a21f9d571a24'
+        key = 'f505991373a1a9a5d7698d0690912233'
         # variable that will get the input from the user
         city = e_search.get()
         # built in parameters from the api to get the values in a dictionary
